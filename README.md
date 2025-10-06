@@ -2,7 +2,7 @@
 
 ![Ludum Dare](https://img.shields.io/badge/LudumDare-58-f79122?labelColor=ee5533&link=https%3A%2F%2Fldjam.com%2Fevents%2Fludum-dare%2F58)
 ![Ludum Dare 58 - Compo](https://img.shields.io/badge/LudumDare58-Compo-ee5533?&link=https%3A%2F%2Fldjam.com%2Fevents%2Fludum-dare%2F58)
-![Unity](https://img.shields.io/badge/Unity-2022.3-000000?logo=unity)
+![Unity](https://img.shields.io/badge/Unity-6000.0.23-000000?logo=unity)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **COOLector** on [Ludum Dare](https://ldjam.com/events/ludum-dare/58/$441e5)
@@ -60,3 +60,6 @@ PANIC: Also automatic (when you don't)
 1. Clone the repository:
 ```bash
 git clone https://github.com/new-boi-devoloper/COOLector_LD58.git
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
